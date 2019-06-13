@@ -1,0 +1,365 @@
+[class^="upicon-"], [class*=" upicon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'upicon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.upicon-copy:before {
+    content: "\e954";
+}
+
+.upicon-align-right:before {
+    content: "\e955";
+}
+
+.upicon-align-center:before {
+    content: "\e956";
+}
+
+.upicon-align-left:before {
+    content: "\e957";
+}
+
+.upicon-tool-button:before {
+    content: "\e94d";
+}
+
+.upicon-tool-spacer:before {
+    content: "\e94e";
+}
+
+.upicon-tool-fb-optin:before {
+    content: "\e94f";
+}
+
+.upicon-tool-form:before {
+    content: "\e950";
+}
+
+.upicon-tool-image:before {
+    content: "\e951";
+}
+
+.upicon-tool-social:before {
+    content: "\e952";
+}
+
+.upicon-tool-text:before {
+    content: "\e953";
+}
+
+.upicon-user:before {
+    content: "\e94c";
+}
+
+.upicon-unlock:before {
+    content: "\e94a";
+}
+
+.upicon-lock:before {
+    content: "\e94b";
+}
+
+.upicon-combined:before {
+    content: "\e949";
+}
+
+.upicon-link:before {
+    content: "\e947";
+}
+
+.upicon-world:before {
+    content: "\e948";
+}
+
+.upicon-filter:before {
+    content: "\e946";
+}
+
+.upicon-share:before {
+    content: "\e944";
+}
+
+.upicon-colors:before {
+    content: "\e945";
+}
+
+.upicon-reward-other:before {
+    content: "\e943";
+}
+
+.upicon-sharesocial:before {
+    content: "\e940";
+}
+
+.upicon-oneclick:before {
+    content: "\e941";
+}
+
+.upicon-sharelink:before {
+    content: "\e942";
+}
+
+.upicon-stickywidget:before {
+    content: "\e93a";
+}
+
+.upicon-membership:before {
+    content: "\e93b";
+}
+
+.upicon-htmlform:before {
+    content: "\e93c";
+}
+
+.upicon-side:before {
+    content: "\e93d";
+}
+
+.upicon-popup:before {
+    content: "\e93e";
+}
+
+.upicon-networld:before {
+    content: "\e93f";
+}
+
+.upicon-upload:before {
+    content: "\e936";
+}
+
+.upicon-closecampaign:before {
+    content: "\e937";
+}
+
+.upicon-pickawinner:before {
+    content: "\e938";
+}
+
+.upicon-winner:before {
+    content: "\e939";
+}
+
+.upicon-duplicate:before {
+    content: "\e935";
+}
+
+.upicon-weblink:before {
+    content: "\e931";
+}
+
+.upicon-downloadable:before {
+    content: "\e932";
+}
+
+.upicon-coupon:before {
+    content: "\e933";
+}
+
+.upicon-coupon-multi:before {
+    content: "\e934";
+}
+
+.upicon-scorefirst:before {
+    content: "\e92b";
+}
+
+.upicon-random:before {
+    content: "\e92c";
+}
+
+.upicon-globe:before {
+    content: "\e92d";
+}
+
+.upicon-wh:before {
+    content: "\e92e";
+}
+
+.upicon-me:before {
+    content: "\e92f";
+}
+
+.upicon-li:before {
+    content: "\e930";
+}
+
+.upicon-minus:before {
+    content: "\e92a";
+}
+
+.upicon-handle:before {
+    content: "\e929";
+}
+
+.upicon-mobile:before {
+    content: "\e924";
+}
+
+.upicon-desktop:before {
+    content: "\e925";
+}
+
+.upicon-misc:before {
+    content: "\e926";
+}
+
+.upicon-form:before {
+    content: "\e927";
+}
+
+.upicon-style:before {
+    content: "\e928";
+}
+
+.upicon-email-open:before {
+    content: "\e91a";
+}
+
+.upicon-pi:before {
+    content: "\e91b";
+}
+
+.upicon-in:before {
+    content: "\e91c";
+}
+
+.upicon-tw:before {
+    content: "\e91d";
+}
+
+.upicon-fb:before {
+    content: "\e91e";
+}
+
+.upicon-embedded:before {
+    content: "\e91f";
+}
+
+.upicon-hosted:before {
+    content: "\e920";
+}
+
+.upicon-automatic:before {
+    content: "\e921";
+}
+
+.upicon-manual:before {
+    content: "\e922";
+}
+
+.upicon-newimage:before {
+    content: "\e923";
+}
+
+.upicon-alert:before {
+    content: "\e900";
+}
+
+.upicon-arrow:before {
+    content: "\e901";
+}
+
+.upicon-attachment:before {
+    content: "\e902";
+}
+
+.upicon-calendar:before {
+    content: "\e903";
+}
+
+.upicon-caret:before {
+    content: "\e904";
+}
+
+.upicon-checkmark:before {
+    content: "\e905";
+}
+
+.upicon-delete:before {
+    content: "\e906";
+}
+
+.upicon-dots:before {
+    content: "\e907";
+}
+
+.upicon-edit:before {
+    content: "\e908";
+}
+
+.upicon-email:before {
+    content: "\e909";
+}
+
+.upicon-export:before {
+    content: "\e90a";
+}
+
+.upicon-eye:before {
+    content: "\e90b";
+}
+
+.upicon-help:before {
+    content: "\e90c";
+}
+
+.upicon-info:before {
+    content: "\e90d";
+}
+
+.upicon-logout:before {
+    content: "\e90e";
+}
+
+.upicon-notification:before {
+    content: "\e90f";
+}
+
+.upicon-plus:before {
+    content: "\e910";
+}
+
+.upicon-pluscircle:before {
+    content: "\e911";
+}
+
+.upicon-refresh:before {
+    content: "\e912";
+}
+
+.upicon-reward:before {
+    content: "\e913";
+}
+
+.upicon-search:before {
+    content: "\e914";
+}
+
+.upicon-settings:before {
+    content: "\e915";
+}
+
+.upicon-stats:before {
+    content: "\e916";
+}
+
+.upicon-sweepstake:before {
+    content: "\e917";
+}
+
+.upicon-users:before {
+    content: "\e918";
+}
+
+.upicon-x:before {
+    content: "\e919";
+}
