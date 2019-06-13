@@ -37,7 +37,7 @@ class  TextElement extends Component {
         const opacity = isDragging ? 0 : 1;
         return (
             connectDragSource(
-                <div className="btn btn-tool-text" style={{opacity}} onClick={e => this.props.addText(TEXT)}>
+                <div className="btn btn-tool-text" style={{opacity}}>
                     <i className="upicon-tool-text"></i>
                     <p>Text</p>
                 </div>
